@@ -1,0 +1,6 @@
+.frame {
+  padding: 10px;
+  background-color: #f4a662;
+  border: 1px solid #f18e37;
+  box-shadow: 0 2px 6px 0 hsla(0, 0%, 0%, 0.6);
+}
